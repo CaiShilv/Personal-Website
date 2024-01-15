@@ -12,16 +12,17 @@ redirect_from:
 ---
 
 <br />
+I received a bachelor’s degree from the College of Electrical and Information Engineering, Hunan University, Changsha, China 2018.
 
-I am a Ph.D. candidate in the Department of Economics, University at Albany, State University of New York.
+I am a Ph.D. candidate in the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan China. 
 
-I am on the job market during the 2023-2024 academic year.
+I am on the job market during the 2024 academic year.
 
-My main research fields are International Trade, Industrial Organization, and Applied Econometrics.
+My main research fields are image compression and processing, generative models, and software systems.
 
-Click [here](https://tpeng2023.github.io/tpeng.github.io/assets/files/CV.pdf) for my full CV.
+Click [here](https://caishilv.github.io/shilvcai.github.io/assets/files/CV_Postdoctoral.pdf) for my full CV.
 
 ## Contact Information
 
-Email: tpeng2@albany.edu\\
-Mobile: +1 518-605-8727 
+Email: caishilv@hust.edu.cn; caishilv1024@gmail.com\\
+Mobile: +86 16602742964
