@@ -50,7 +50,7 @@ google_analytics:
 # Site Author
 author:
   name             : "Shilv Cai"
-  avatar           : "/assets/images/photo.jpeg"
+  avatar           : "/assets/images/photo.jpg"
   bio              : "Ph.D. Candidate in Huazhong University of Science and Technology" 
   location         : "China"
   email            : 
