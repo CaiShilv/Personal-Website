@@ -15,18 +15,18 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "default",, "neon", "mint", "plum", "sunrise"
 
 # Search Engine Optimization (SEO)
-keywords: tingting peng, tingting peng econ, tingting peng ualbany, peng tingting
+keywords: Shilv Cai, SHilyu Cai
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Tingting Peng"
+locale                   : "China"
+title                    : "Shilv Cai"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Tingting Peng"
-description              : "Personal website of Tingting Peng"
-url                      : https://tpeng.github.io
+name                     : "Shilv Cai"
+description              : "Personal website of Shilv Cai"
+url                      : https://caishilv.github.io/shilvcai.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "tpeng2023/tpeng.github.io"
+repository               : "https://github.com/CaiShilv/shilvcai.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
