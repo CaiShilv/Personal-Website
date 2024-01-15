@@ -53,7 +53,7 @@ author:
   avatar           : "/assets/images/photo.jpg"
   bio              : "Ph.D. Candidate in Huazhong University of Science and Technology" 
   location         : "China"
-  email            : 
+  email            : "caishilv@hust.edu.cn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
