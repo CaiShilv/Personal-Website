@@ -24,7 +24,7 @@ Abstract: Low-light images frequently occur due to unavoidable environmental inf
 </p>
 
 
-**[Shilv Cai, Zhijun Zhang, Liqun Chen, Luxin Yan, Sheng Zhong, and Xu Zou. High-Fidelity Variable-Rate Image Compression via Invertible Activation Transformation. In Proceedings of the 30th ACM International Conference on Multimedia~(ACM MM), 2022 (Published)](https://arxiv.org/abs/2209.05054)**\\
+**[Shilv Cai, Zhijun Zhang, Liqun Chen, Luxin Yan, Sheng Zhong, and Xu Zou. High-Fidelity Variable-Rate Image Compression via Invertible Activation Transformation. In Proceedings of the 30th ACM International Conference on Multimedia (ACM MM), 2022 (Published)](https://arxiv.org/abs/2209.05054)**\\
 
 
 <p style="text-align: justify;">
