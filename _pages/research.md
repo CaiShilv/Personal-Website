@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Papers
-**[Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted).]**
+**Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted).**
 
 
 <p style="text-align: justify;">
@@ -16,7 +16,7 @@ Abstract: Lossy image compression is a fundamental technology in media transmiss
 </p>
 
 
-**[Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, and Xu Zou. Make Lossy Compression Meaningful for Low-Light Images. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024 (Accepted)].**
+**Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, and Xu Zou. Make Lossy Compression Meaningful for Low-Light Images. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024 (Accepted).**
 
 
 <p style="text-align: justify;">
