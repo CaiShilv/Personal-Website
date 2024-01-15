@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Papers
-**[Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted).]**\\
+**[Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted).]**
 
 
 <p style="text-align: justify;">
@@ -16,7 +16,7 @@ Abstract: Lossy image compression is a fundamental technology in media transmiss
 </p>
 
 
-**[Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, and Xu Zou. Make Lossy Compression Meaningful for Low-Light Images. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024 (Accepted)].**\\
+**[Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, and Xu Zou. Make Lossy Compression Meaningful for Low-Light Images. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024 (Accepted)].**
 
 
 <p style="text-align: justify;">
@@ -24,7 +24,7 @@ Abstract: Low-light images frequently occur due to unavoidable environmental inf
 </p>
 
 
-**[Shilv Cai, Zhijun Zhang, Liqun Chen, Luxin Yan, Sheng Zhong, and Xu Zou. High-Fidelity Variable-Rate Image Compression via Invertible Activation Transformation. In Proceedings of the 30th ACM International Conference on Multimedia (ACM MM), 2022 (Published)](https://arxiv.org/abs/2209.05054)**\\
+**[Shilv Cai, Zhijun Zhang, Liqun Chen, Luxin Yan, Sheng Zhong, and Xu Zou. High-Fidelity Variable-Rate Image Compression via Invertible Activation Transformation. In Proceedings of the 30th ACM International Conference on Multimedia (ACM MM), 2022 (Published)](https://arxiv.org/abs/2209.05054)**
 
 
 <p style="text-align: justify;">
@@ -34,4 +34,4 @@ Abstract: Learning-based methods have effectively promoted the community of imag
 
 ## Work in Progress
 
-**{Shilv Cai}, Xiaoguo Liang, Shuning Cao, Luxin Yan, Sheng Zhong, Liqun Chen, and Xu Zou. Powerful Lossy Compression for Noisy Images. (Under review)**\\
+**Shilv Cai, Xiaoguo Liang, Shuning Cao, Luxin Yan, Sheng Zhong, Liqun Chen, and Xu Zou. Powerful Lossy Compression for Noisy Images. (Under review)**
