@@ -49,24 +49,24 @@ google_analytics:
 
 # Site Author
 author:
-  name             : "Tingting Peng"
-  avatar           : "/assets/images/profile.jpeg"
-  bio              : "Ph.D. Candidate in Economics" 
-  location         : "United States"
+  name             : "Shilv Cai"
+  avatar           : "/assets/images/photo.jpeg"
+  bio              : "Ph.D. Candidate in Huazhong University of Science and Technology" 
+  location         : "China"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:tpeng2@albany.edu"
+      url: "caishilv@hust.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://tpeng2023.github.io/tpeng.github.io/"
+      url: "https://caishilv.github.io/shilvcai.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tpeng2023"
+      url: "https://github.com/CaiShilv"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tingting-peng-b69596297/"
+      url: "https://www.linkedin.com/in/shilv-cai-b21536299/"
 
       
 # Disable Feed Icons
