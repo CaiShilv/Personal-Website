@@ -24,9 +24,9 @@ title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shilv Cai"
 description              : "Personal website of Shilv Cai"
-url                      : https://caishilv.github.io/shilvcai.github.io/
+URL                      : "https://caishilv.github.io/Personal-Website/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/CaiShilv/shilvcai.github.io"
+repository               : "https://github.com/CaiShilv/Personal-Website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -60,7 +60,7 @@ author:
     #   url: "caishilv@hust.edu.cn"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://caishilv.github.io/shilvcai.github.io/"
+      url: "https://caishilv.github.io/Personal-Website/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CaiShilv"
