@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Papers
-**Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted).**
+**[Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted)](https://ieeexplore.ieee.org/document/10411123).**
 
 
 <p style="text-align: justify;">
