@@ -32,7 +32,9 @@ Abstract: Learning-based methods have effectively promoted the community of imag
 </p>
 
 
-**Shilv Cai, Xiaoguo Liang, Shuning Cao, Luxin Yan, Sheng Zhong, Liqun Chen, and Xu Zou. Powerful Lossy Compression for Noisy Images. In Proceedings of the IEEE International Conference on Multimedia and Expo (ICME). 2024 (Accepted)**
+**[Shilv Cai, Xiaoguo Liang, Shuning Cao, Luxin Yan, Sheng Zhong, Liqun Chen, and Xu Zou. Powerful Lossy Compression for Noisy Images. In Proceedings of the IEEE International Conference on Multimedia and Expo (ICME). 2024 (Accepted)](https://arxiv.org/abs/2403.14135).**
+
+
 <p style="text-align: justify;">
 Abstract: Image compression and denoising represent fundamental challenges in image processing with many real-world applications. To address practical demands, current solutions can be categorized into two main strategies: 1) sequential method; and 2) joint method. However, sequential methods have the disadvantage of error accumulation as there is information loss between multiple individual models. Recently, the academic community began to make some attempts to tackle this problem through end-to-end joint methods. Most of them ignore that different regions of noisy images have different characteristics. To solve these problems, in this paper, our proposed signal-to-noise ratio~(SNR) aware joint solution exploits local and non-local features for image compression and denoising simultaneously. We design an end-to-end trainable network, which includes the main encoder branch, the guidance branch, and the signal-to-noise ratio~(SNR) aware branch. We conducted extensive experiments on both synthetic and real-world datasets, demonstrating that our joint solution outperforms existing state-of-the-art methods.
 </p>
