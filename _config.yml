@@ -21,7 +21,7 @@ keywords: Shilv Cai, Shilyu Cai, Shilv(Shilyu) Cai
 locale                   : "Wuhan, China"
 title                    : "Shilv(Shilyu) Cai"
 title_separator          : # "-"
-subtitle                 : "Shilv(Shilyu) Cai" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shilv(Shilyu) Cai"
 description              : "Personal website of Shilv(Shilyu) Cai"
 URL                      : "https://caishilv.github.io/Personal-Website/"
