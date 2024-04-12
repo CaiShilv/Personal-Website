@@ -19,11 +19,11 @@ keywords: Shilv Cai, Shilyu Cai
 
 # Site Settings
 locale                   : "Wuhan, China"
-title                    : "Shilv Cai"
+title                    : "Shilv(Shilyu) Cai"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Shilv Cai"
-description              : "Personal website of Shilv Cai"
+name                     : "Shilv(Shilyu) Cai"
+description              : "Personal website of Shilv(Shilyu) Cai"
 URL                      : "https://caishilv.github.io/Personal-Website/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/CaiShilv/Personal-Website"
@@ -49,7 +49,7 @@ google_analytics:
 
 # Site Author
 author:
-  name             : "Shilv Cai"
+  name             : "Shilv(Shilyu) Cai"
   avatar           : "/assets/images/photo.jpg"
   bio              : "Ph.D. Candidate in Huazhong University of Science and Technology" 
   location         : "China"
