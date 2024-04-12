@@ -15,13 +15,13 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "default",, "neon", "mint", "plum", "sunrise"
 
 # Search Engine Optimization (SEO)
-keywords: Shilv Cai, Shilyu Cai
+keywords: Shilv Cai, Shilyu Cai, Shilv(Shilyu) Cai
 
 # Site Settings
 locale                   : "Wuhan, China"
 title                    : "Shilv(Shilyu) Cai"
 title_separator          : # "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Shilv(Shilyu) Cai" # site tagline that appears below site title in masthead
 name                     : "Shilv(Shilyu) Cai"
 description              : "Personal website of Shilv(Shilyu) Cai"
 URL                      : "https://caishilv.github.io/Personal-Website/"
