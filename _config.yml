@@ -67,6 +67,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shilv-cai-b21536299/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-GoogleScholar"
+      url: "https://scholar.google.com/citations?user=fe5qoGIAAAAJ&hl=en"
 
       
 # Disable Feed Icons
