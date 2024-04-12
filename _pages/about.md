@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! Shilv(Shilyu) Cai"
+title: "Welcome!"
 # excerpt: "the homepage"
 # layout: single
 author_profile: true
