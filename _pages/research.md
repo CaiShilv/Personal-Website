@@ -16,7 +16,7 @@ Abstract: Lossy image compression is a fundamental technology in media transmiss
 </p>
 
 
-**[Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, and Xu Zou. Make Lossy Compression Meaningful for Low-Light Images. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024 (Accepted)](https://arxiv.org/abs/2305.15030).**
+**[Shilv Cai, Liqun Chen, Sheng Zhong, Luxin Yan, Jiahuan Zhou, and Xu Zou. Make Lossy Compression Meaningful for Low-Light Images. In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024 (Published)](https://arxiv.org/abs/2305.15030).**
 
 
 <p style="text-align: justify;">
