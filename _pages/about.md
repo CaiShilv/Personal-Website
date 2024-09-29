@@ -12,11 +12,11 @@ redirect_from:
 ---
 
 <br />
-I received a bachelor’s degree from the College of Electrical and Information Engineering, Hunan University, Changsha, China 2018.
+I received a bachelor's degree from the College of Electrical and Information Engineering, Hunan University, Changsha, China 2018.
 
-I am a Ph.D. candidate in the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, Wuhan China. 
+I obtained a Ph.D. degree in the School of Artificial Intelligence and Automation, at Huazhong University of Science and Technology, Wuhan China 2024 September. 
 
-I am on the job market during the 2024 academic year.
+In the near future, I will go to the College of Computing & Data Science at Nanyang Technological University in Singapore for postdoctoral research.
 
 My main research fields are image compression and processing, generative models, and software systems.
 
