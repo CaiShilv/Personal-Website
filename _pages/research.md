@@ -8,7 +8,7 @@ author_profile: true
 
 
 ## Papers
-**[Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Accepted)](https://ieeexplore.ieee.org/document/10411123).**
+**[Shilv Cai, Liqun Chen, Zhijun Zhang, Xiangyun Zhao, Jiahuan Zhou, Yuxin Peng, Luxin Yan, Sheng Zhong, and Xu Zou. I2C: Invertible Continuous Codec for High-Fidelity Variable-Rate Image Compression. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024 (Published)](https://ieeexplore.ieee.org/document/10411123).**
 
 
 <p style="text-align: justify;">
@@ -32,7 +32,7 @@ Abstract: Learning-based methods have effectively promoted the community of imag
 </p>
 
 
-**[Shilv Cai, Xiaoguo Liang, Shuning Cao, Luxin Yan, Sheng Zhong, Liqun Chen, and Xu Zou. Powerful Lossy Compression for Noisy Images. In Proceedings of the IEEE International Conference on Multimedia and Expo (ICME). 2024 (Accepted)](https://arxiv.org/abs/2403.14135).**
+**[Shilv Cai, Xiaoguo Liang, Shuning Cao, Luxin Yan, Sheng Zhong, Liqun Chen, and Xu Zou. Powerful Lossy Compression for Noisy Images. In Proceedings of the IEEE International Conference on Multimedia and Expo (ICME). 2024 (Published)](https://arxiv.org/abs/2403.14135).**
 
 
 <p style="text-align: justify;">
