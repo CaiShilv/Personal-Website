@@ -15,11 +15,11 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum", "sunrise"
 
 # Search Engine Optimization (SEO)
-keywords: Shilv(Shilyu) Cai, Shilv Cai, Shilyu Cai
+keywords: Shilv Cai, Shilv Cai
 
 # Site Settings
 locale                   : "Singapore"
-title                    : "Shilv(Shilyu) Cai"
+title                    : "Shilv Cai"
 title_separator          : # "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Shilv(Shilyu) Cai"
@@ -49,7 +49,7 @@ google_analytics:
 
 # Site Author
 author:
-  name             : "Shilv(Shilyu) Cai"
+  name             : "Shilv Cai"
   avatar           : "/assets/images/photo.jpg"
   bio              : "Research Fellow in NTU" 
   location         : "Singapore"
